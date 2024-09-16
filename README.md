@@ -8,5 +8,6 @@ This EDA is my first Python project. By utilizing and cleansing a dataset found 
 
 ![Daily Usage of Different Platforms](https://github.com/user-attachments/assets/0c854291-ab19-430c-a735-0c4dad17cfb7)
 4. A heatmap comparing the correlations of quantitative metrics above.
+
 ![Heatmap Showing Correlation within Different Features](https://github.com/user-attachments/assets/561d6444-3caf-46a8-82e5-46c17f1443e5)
 By analyzing these graphs, I have come to figure out some assumptions we made about social media are actually wrong, like people who spend more time on social media are more unhappy, which has turned out to be false. The full report can be viewed in this repository.
