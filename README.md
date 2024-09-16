@@ -6,7 +6,8 @@ This EDA is my first Python project. By utilizing and cleansing a dataset found 
 ![Dominant Emotions of Users with likes Q1 Q3](https://github.com/user-attachments/assets/1e7d11ac-a128-47df-919d-d53c76650144)
 3. Histograms of daily usage in different platforms
 
-![Daily Usage of Different Platforms](https://github.com/user-attachments/assets/0c854291-ab19-430c-a735-0c4dad17cfb7)
+![Daily Usage of Different Platforms](https://github.com/user-attachments/assets/b1d1cd72-3ed1-4ef0-a0f2-34f7252f9e89)
+
 
 4. A heatmap comparing the correlations of quantitative metrics above.
 
