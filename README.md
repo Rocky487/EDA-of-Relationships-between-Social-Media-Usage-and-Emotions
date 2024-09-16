@@ -1,4 +1,4 @@
-This EDA is my first Python project. By utilizing and cleansing a dataset found on Kaggle, which encompasses different people's age, gender, social media platform they usually use, daily usage time, number of messages sent, posts made, likes and comments received per day, as well as their daily dominant emotions, I have configured several matplotlib graphs
+This EDA is my first Python project. By utilizing and cleansing a dataset found on Kaggle, which encompasses different people's age, gender, social media platform they usually use, daily usage time, number of messages sent, posts made, likes and comments received per day, as well as their daily dominant emotions, I have made several matplotlib graphs:
 1. A side-by-side bar chart comparing how emotions vary across different platforms and usage time respectively
 ![Emotion Count on Different Platforms](https://github.com/user-attachments/assets/7f508467-1d67-4de9-b9ee-18eb288accdc)
 ![Emotion Count on Different Usage Time](https://github.com/user-attachments/assets/26da2072-bb76-49f0-bda1-aa9a9de8fa24)
