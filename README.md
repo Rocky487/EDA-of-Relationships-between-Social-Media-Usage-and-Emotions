@@ -15,4 +15,5 @@ This EDA is my first Python project. By utilizing and cleansing a dataset found 
 ![Heatmap Showing Correlation within Different Features](https://github.com/user-attachments/assets/561d6444-3caf-46a8-82e5-46c17f1443e5)
 
 
-By analyzing these graphs, I have come to figure out some assumptions we made about social media are actually wrong, like people who spend more time on social media are more unhappy, which has turned out to be false. The full report can be viewed in this repository.
+By analyzing these graphs, I have come to figure out some assumptions we made about social media are actually wrong, like people who spend more time on social media are more unhappy, which has turned out to be false. The full report can be viewed here:
+https://docs.google.com/document/d/1UQ7uBOfzoRYKA68Hl704WB4SogNiaixO9eyqWffYYwg/edit?usp=sharing
